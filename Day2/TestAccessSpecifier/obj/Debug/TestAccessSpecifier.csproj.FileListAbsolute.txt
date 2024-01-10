@@ -1,0 +1,6 @@
+D:\DotNet_Acts\Day2\TestAccessSpecifier\bin\Debug\TestAccessSpecifier.dll
+D:\DotNet_Acts\Day2\TestAccessSpecifier\bin\Debug\TestAccessSpecifier.pdb
+D:\DotNet_Acts\Day2\TestAccessSpecifier\obj\Debug\TestAccessSpecifier.csproj.AssemblyReference.cache
+D:\DotNet_Acts\Day2\TestAccessSpecifier\obj\Debug\TestAccessSpecifier.csproj.CoreCompileInputs.cache
+D:\DotNet_Acts\Day2\TestAccessSpecifier\obj\Debug\TestAccessSpecifier.dll
+D:\DotNet_Acts\Day2\TestAccessSpecifier\obj\Debug\TestAccessSpecifier.pdb

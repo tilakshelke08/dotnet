@@ -1,0 +1,2 @@
+D:\DotNet_Acts\Day2\StaticMembers\obj\Debug\StaticMembers.csproj.AssemblyReference.cache
+D:\DotNet_Acts\Day2\StaticMembers\obj\Debug\StaticMembers.csproj.CoreCompileInputs.cache

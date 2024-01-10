@@ -1,0 +1,7 @@
+D:\DotNet_Acts\Day2\ClassBasics\obj\Debug\ClassBasics.csproj.AssemblyReference.cache
+D:\DotNet_Acts\Day2\ClassBasics\obj\Debug\ClassBasics.csproj.CoreCompileInputs.cache
+D:\DotNet_Acts\Day2\ClassBasics\bin\Debug\ClassBasics.exe.config
+D:\DotNet_Acts\Day2\ClassBasics\bin\Debug\ClassBasics.exe
+D:\DotNet_Acts\Day2\ClassBasics\bin\Debug\ClassBasics.pdb
+D:\DotNet_Acts\Day2\ClassBasics\obj\Debug\ClassBasics.exe
+D:\DotNet_Acts\Day2\ClassBasics\obj\Debug\ClassBasics.pdb
