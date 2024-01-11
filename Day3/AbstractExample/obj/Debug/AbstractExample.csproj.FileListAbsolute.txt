@@ -1,0 +1,7 @@
+D:\DotNet_Acts\Day3\AbstractExample\bin\Debug\AbstractExample.exe.config
+D:\DotNet_Acts\Day3\AbstractExample\bin\Debug\AbstractExample.exe
+D:\DotNet_Acts\Day3\AbstractExample\bin\Debug\AbstractExample.pdb
+D:\DotNet_Acts\Day3\AbstractExample\obj\Debug\AbstractExample.csproj.AssemblyReference.cache
+D:\DotNet_Acts\Day3\AbstractExample\obj\Debug\AbstractExample.csproj.CoreCompileInputs.cache
+D:\DotNet_Acts\Day3\AbstractExample\obj\Debug\AbstractExample.exe
+D:\DotNet_Acts\Day3\AbstractExample\obj\Debug\AbstractExample.pdb

@@ -1,0 +1,2 @@
+D:\DotNet_Acts\Day3\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\DotNet_Acts\Day3\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
