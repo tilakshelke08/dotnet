@@ -1,0 +1,7 @@
+D:\DotNet_Acts\Day4\RefAndValType3\bin\Debug\RefAndValType3.exe.config
+D:\DotNet_Acts\Day4\RefAndValType3\bin\Debug\RefAndValType3.exe
+D:\DotNet_Acts\Day4\RefAndValType3\bin\Debug\RefAndValType3.pdb
+D:\DotNet_Acts\Day4\RefAndValType3\obj\Debug\RefAndValType3.csproj.AssemblyReference.cache
+D:\DotNet_Acts\Day4\RefAndValType3\obj\Debug\RefAndValType3.csproj.CoreCompileInputs.cache
+D:\DotNet_Acts\Day4\RefAndValType3\obj\Debug\RefAndValType3.exe
+D:\DotNet_Acts\Day4\RefAndValType3\obj\Debug\RefAndValType3.pdb
