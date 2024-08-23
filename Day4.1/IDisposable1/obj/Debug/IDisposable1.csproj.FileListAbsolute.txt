@@ -1,7 +1,0 @@
-D:\DotNet_Acts\Day4.1\IDisposable1\bin\Debug\IDisposable1.exe.config
-D:\DotNet_Acts\Day4.1\IDisposable1\bin\Debug\IDisposable1.exe
-D:\DotNet_Acts\Day4.1\IDisposable1\bin\Debug\IDisposable1.pdb
-D:\DotNet_Acts\Day4.1\IDisposable1\obj\Debug\IDisposable1.csproj.AssemblyReference.cache
-D:\DotNet_Acts\Day4.1\IDisposable1\obj\Debug\IDisposable1.csproj.CoreCompileInputs.cache
-D:\DotNet_Acts\Day4.1\IDisposable1\obj\Debug\IDisposable1.exe
-D:\DotNet_Acts\Day4.1\IDisposable1\obj\Debug\IDisposable1.pdb
